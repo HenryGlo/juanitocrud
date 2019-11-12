@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css?family=Big+Shoulders+Text&display=swap");
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background: #f2f2f2;
+	/* font-family: 'Big Shoulders Text'; */
+}
+
+.container {
+	margin-top: 4%;
+}
+
+.container .btn {
+	margin-bottom: 2%;
+}
+
+.modal-body form input {
+	display: block;
+}
